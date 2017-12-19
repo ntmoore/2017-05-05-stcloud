@@ -14,5 +14,5 @@
 | 13:45	| Tracking Changes and Exploring History |
 | 14:30	| Coffee/tea break
 | 14:45	| Collaborating and Conflicts |
-| 15:45	| Open Science (Licensing,Citation and Hosting) |
+| 15:45	| Github and RStudio |
 | 16:45	| Wrap-up |
