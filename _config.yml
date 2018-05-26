@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "St. Cloud State University: Jun 2-3, 2018"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: ["zliu@stcloudstate.edu","pmiltenoff@stcloudstate.edu","nmoore@winona.edu"]
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
